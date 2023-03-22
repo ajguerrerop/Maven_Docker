@@ -15,3 +15,5 @@ It's important to update m2 settings.xml config file in order to add plugings an
                <email>(Docker Hub Email)</email>
           </configuration>
      </server>
+<br>
+     It's possible to create a token in Docker Hub and put it in Password tag instead your password
