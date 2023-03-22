@@ -1,6 +1,4 @@
-Docker and Docker Compose example
-
-Docker images created by maven plugin fabric8io <br>
+<h3> Docker Images created by fabric8i maven plugin</h3>
 
 It builds image and pushes it to Docker Hub Repository.<br>
 
@@ -10,10 +8,10 @@ It's important to update m2 settings.xml config file in order to add plugings an
 	<pluginGroup>org.springframework.boot</pluginGroup>
     	
      <server>
-		<id>docker.io</id>
-		<username>(Docker Hub ID)</username>
+          <id>docker.io</id>
+          <username>(Docker Hub ID)</username>
           <password>(Docker Hub Password)</password>
           <configuration>
-			<email>(Docker Hub Email)</email>
+               <email>(Docker Hub Email)</email>
           </configuration>
      </server>
