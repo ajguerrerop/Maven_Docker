@@ -7,7 +7,7 @@ Bye_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/cre
 Bye_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 Hello_Server/target/helloserver-0.0.1.jar
 Hello_Server/target/helloserver-0.0.1.jar.original
-Hello_Server/target/classes/application.yml
+Hello_Server/target/classes/application.yml 
 Hello_Server/target/classes/com/gpalex/helloserver/HelloServerApplication.class
 Hello_Server/target/maven-archiver/pom.properties
 Hello_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
