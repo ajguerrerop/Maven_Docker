@@ -8,16 +8,12 @@ It's important to update m2 settings.xml config file in order to add plugings an
 
 	<pluginGroup>io.fabric8</pluginGroup>
 	<pluginGroup>org.springframework.boot</pluginGroup>
-
-
-     <br>
-
-     	
+    	
      <server>
 		<id>docker.io</id>
 		<username>(Docker Hub ID)</username>
-        <password>(Docker Hub Password (/password>
-        <configuration>
+          <password>(Docker Hub Password)</password>
+          <configuration>
 			<email>(Docker Hub Email)</email>
-        </configuration>
+          </configuration>
      </server>
