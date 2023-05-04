@@ -28,6 +28,7 @@ public class HelloServerApplication {
 
   @GetMapping(value = "/hello", produces = MediaType.TEXT_PLAIN_VALUE)
   public String whoami() {
+    System.out.println("Hello world in logs");
     return String.format("Hello World");
   }
 
